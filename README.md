@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rydergreyson
-- 👀 I’m interested in web development and iOS jailbreaking
-- 🌱 I’m currently learning HTML
+
 
 <!---
 rydergreyson/rydergreyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
